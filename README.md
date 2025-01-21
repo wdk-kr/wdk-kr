@@ -58,6 +58,8 @@
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d) - 3D Printing Channel
 - **Email**: github@greenbean.cc
 
+## Spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31orj3ybomtdjle2mmuknawsq7jm&unique=true&count=6&width=500)
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreenbean1210&count_bg=%2397EB58&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
