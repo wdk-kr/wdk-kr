@@ -56,7 +56,7 @@
 
 - **Discord**: apple_visionpro
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d) - 3D Printing Channel
-- **Email**: github@greenbean.cc
+- **Email**: me@wdk.kr
 
 ## Spotify
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31orj3ybomtdjle2mmuknawsq7jm&unique=true&count=6&width=500)
