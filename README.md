@@ -14,10 +14,7 @@
 - **3D printing hobbyist** ⭐️
 - ~~**Spaghetti code generator** 🍝~~ 
 
-
-
 ## 👀 Currently Exploring... 
-
 
 ### Programming Languages & Frameworks
 
@@ -27,8 +24,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
 
 ### DevOps & Server Management
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -55,7 +50,6 @@
 *(My first step into programming! 🧒💻)*
 
 ## 💡 Contact Me
-
 - **Discord**: apple_visionpro
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d) - 3D Printing Channel
 - **Email**: me@wdk.kr
