@@ -4,7 +4,7 @@
 **WDK · Greenbean**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wdk-kr&theme=github-dark-blue&border_radius=37&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wdkdot&theme=github-dark-blue&border_radius=37&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ## 😁 About
 
