@@ -39,5 +39,3 @@ Homelab · Self-hosting · Python · AI · 3D printing
 - **Discord**: apple_visionpro
 - **Email**: me@wdk.kr
 
-## 🎧 Spotify
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31orj3ybomtdjle2mmuknawsq7jm&unique=true&count=6&width=500)
