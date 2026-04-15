@@ -8,7 +8,7 @@
 
 ## 😁 About
 
-Homelab · Self-hosting · Python · AI · 3D printing
+Homelab · Self-hosting · Backend · Infra · DevOps · AI · 3D printing
 
 ## 👀 Focus Areas
 
