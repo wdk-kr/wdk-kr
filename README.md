@@ -8,7 +8,7 @@
 
 ## 😁 About
 
-Homelab · Self-hosting · Backend · Infra · DevOps · AI · 3D printing
+Homelab · Self-hosting · Backend · Infra · DevOps · Embedded · Electronics · AI · 3D Printing
 
 ## 👀 Focus Areas
 
